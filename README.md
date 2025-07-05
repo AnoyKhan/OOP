@@ -16,10 +16,10 @@ This repository contains practice codes and examples of Object-Oriented Programm
 
 ## File Naming Convention
 
-Files are named and ordered based on concept sequence:
-01_class_Templates.cpp
-02_Exceptions.cpp
-03_Functions_Templates.cpp
+Files are named and ordered based on concept sequence:<br>
+class_Templates.cpp <br>
+Exceptions.cpp <br>
+Functions_Templates.cpp
 ...
 
 Each file is self-contained with example and inline comments.
