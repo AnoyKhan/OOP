@@ -1,0 +1,10 @@
+# C++ build files
+*.o
+*.out
+*.exe
+
+# CLion or VSCode folders
+cmake-build-*/
+.idea/
+.vscode/
+*.log
