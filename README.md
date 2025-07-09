@@ -23,3 +23,4 @@ Functions_Templates.cpp
 ...
 
 Each file is self-contained with example and inline comments.
+- [Course_Certificate](./Course%20Certificate.jpg)
