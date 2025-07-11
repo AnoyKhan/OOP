@@ -2,7 +2,7 @@
 using namespace std;
 class Enemy {
     public:
-        virtual void attack() =0;
+        virtual void attack() =0;//pure virtual function
 };
 
 //The pure virtual function in the Enemy class must be overridden in its derived classes
